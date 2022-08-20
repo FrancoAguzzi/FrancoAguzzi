@@ -14,8 +14,8 @@ I work as a Professional Freelancer and I'm open to help you in your journey of 
 You can find me and get in contact through the following social medias:
 <br>
 <br>
-<img src="/personal-website.png" /> https://francoaguzzi.com <br>
-<img src="/personal-website.png](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" /> https://www.linkedin.com/in/franco-aguzzi-546506184/ <br>
+<img src="/personal-website.png" width="60px" /> https://francoaguzzi.com <br>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/franco-aguzzi-546506184/ <br>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> https://www.wa.me/5548996050413/ <br>
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> https://github.com/FrancoAguzzi/ <br>
 <br>
