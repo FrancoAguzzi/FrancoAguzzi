@@ -1,7 +1,6 @@
 # Hello dear friend! Welcome to my Github profile 👋
 <br>
 <br>
-<br>
 My name is Franco 👨🏼‍💻, I'm a brazilian 🇧🇷 web developer focused in innovating in the tech industry offering creative 🎨 and business aligned 🏤 ideas along with a great sense of performance 🚀, accessibility 🦾 and visual experience 🖼 products, to my customers and users 🫂
 <br>
 <br>
