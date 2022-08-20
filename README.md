@@ -1,7 +1,6 @@
 # Hello dear friend! Welcome to my Github profile 👋
 <br>
-<br>
-My name is Franco 👨🏼‍💻, I'm a brazilian 🇧🇷 web developer focused in innovating in the tech industry offering creative 🎨 and business aligned 🏤 ideas along with a great sense of performance 🚀, accessibility 🦾 and visual experience 🖼 products, to my customers and users 🫂
+My name is Franco Aguzzi 👨🏼‍💻, I'm a brazilian 🇧🇷 web developer focused in innovating in the tech industry offering creative 🎨 and business aligned 🏤 ideas along with a great sense of performance 🚀, accessibility 🦾 and visual experience 🖼 products, to my customers and users 🫂
 <br>
 <br>
 You can find a briefing of each one of the projects I worked on in the repositories section, where the name of the repo will correspond to the name of the project and it's file README.md will contain all the challenges faced and solutions proposed during its development.
