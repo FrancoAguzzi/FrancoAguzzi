@@ -33,7 +33,7 @@ You can find me and get in contact through the following social medias:
 </a>
   
 <a href="https://github.com/FrancoAguzzi/">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
   
 </div>
