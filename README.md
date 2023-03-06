@@ -8,11 +8,6 @@ You can find me and get in contact through the following social medias:
 <br>
 <br>
 
-<div style="display: flex; margin-bottom: 20px">
-<img src="/personal-website.png" width="40px" /> 
-<a href="https://francoaguzzi.com">Personal Website</a>
-</div>
-
 <br>
 
 <div style="display: flex">
@@ -31,7 +26,3 @@ You can find me and get in contact through the following social medias:
   
 </div>
 
-<br>
-<br>
-<br>
-Feel free to reach me out and share your ideas, we can build it! ✋🏼😉
