@@ -1,6 +1,6 @@
-# Hello dear friend! Welcome to my Github profile 👋
+# Welcome to my profile 🖖🏻👽
 <br>
-My name is Franco Aguzzi 👨🏼‍💻, I'm a brazilian 🇧🇷 developer focused in innovating in the tech industry offering creative 🎨 and business aligned 🏤 ideas alongside with a great sense of performance 🚀, accessibility 🦾 and visual experience 🖼. I've worked in multiple e-commerces 💵 from L'Oreal New York 💅🏼 such as <a href="https://cerave.com/" style="margin-right: 20px">
+My name is Franco Camelo Aguzzi 👨🏼‍💻, I'm a brazilian 🇧🇷 developer focused in innovating in the tech industry offering creative 🎨 and business aligned 🏤 ideas alongside with a great sense of performance 🚀, accessibility 🦾 and visual experience 🖼. I've worked in multiple e-commerces 💵 from L'Oreal New York 💅🏼 such as <a href="https://cerave.com/" style="margin-right: 20px">
 CeraVe
 </a>, <a href="https://www.garnierusa.com/" style="margin-right: 20px">
 Garnier
