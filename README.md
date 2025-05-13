@@ -13,7 +13,7 @@ Maybelline
 Finclass
 </a> 📊 (which is a Netflix-like platform with hundreds of thousands of users) and am the Co-Founder of <a href="https://blockful.io/" style="margin-right: 20px">
 Blockful.io
-</a> 👨🏼‍💻, which is boosting the Web3 eco-system 🌎 You can count on me in which regards Python, Typescript, Next.js, React and Vue. Other keywords are e-commerces, de-fi dapps, web3 dapps, product and team building 💎
+</a> 👨🏼‍💻, which is boosting the Web3 eco-system 🌎 You can count on me in which regards Python, Typescript, Next.js, React and Vue. Other keywords are e-commerces, de-fi dapps, web3 dapps, product and team building, SDKs and component libraries 💎 Just in 2024 I contributed to 14 software projects 🌱
 <br>
 Lastly, I've won three National Ethereum Hackathons and one Global one! 🏆🌟 Speaking in Hackathons, I won the bronze medal of the first Sam Altman's Brazilian Hackathon with my own idea 🌱
 <br>
