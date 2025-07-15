@@ -1,38 +1,29 @@
-# Welcome to my profile 🖖🏻👽
-<br>
-My name is Franco Camelo Aguzzi 👨🏼‍💻, I'm a brazilian 🇧🇷 developer focused in innovating in the tech industry offering creative 🎨 and business aligned 🏤 ideas alongside with a great sense of performance 🚀, accessibility 🦾 and visual experience 🖼. I've worked in multiple e-commerces 💵 from L'Oreal New York 💅🏼 such as <a href="https://cerave.com/" style="margin-right: 20px">
-CeraVe
-</a>, <a href="https://www.garnierusa.com/" style="margin-right: 20px">
-Garnier
-</a>, 
-<a href="https://www.essie.com/" style="margin-right: 20px">
-Essie
-</a> and <a href="https://www.maybelline.com.br/" style="margin-right: 20px">
-Maybelline
-</a>, I have worked on <a href="https://finclass.com/" style="margin-right: 20px">
-Finclass
-</a> 📊 (which is a Netflix-like platform with hundreds of thousands of users) and am the Co-Founder of <a href="https://blockful.io/" style="margin-right: 20px">
-Blockful.io
-</a> 👨🏼‍💻, which is boosting the Web3 eco-system 🌎 You can count on me in which regards Python, Typescript, Next.js, React and Vue. Other keywords are e-commerces, de-fi dapps, web3 dapps, product and team building, SDKs and component libraries 💎 Just in 2024 I contributed to 14 software projects 🌱
-<br>
-Lastly, I've won three National Ethereum Hackathons and one Global one! 🏆🌟 Speaking in Hackathons, I won the bronze medal of the first Sam Altman's Brazilian Hackathon with my own idea 🌱
-<br>
-<br>
-<br>
-You can find me and get in contact through the following social medias:
-<br>
-<br>
+🚀 Senior Product Engineer | Startup & Global Enterprise Team Player | SaaS & E-commerces & Web3 & AI
 
-<br>
+I design, build, and scale high-impact digital products across AI, Web3, and full-stack platforms — with a track record of delivering results for both global enterprises and award-winning startups.
 
-<div style="display: flex">
-  
-<a href="https://www.linkedin.com/in/franco-aguzzi-546506184/" style="margin-right: 20px">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  
-<a href="https://wa.me/5548988183286/" style="margin-right: 20px">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-  
-</div>
+🏅 Proven Experience at Scale
+
+    Delivered frontend and full-stack features for a streaming/edtech platform serving 100,000+ users, driving performance and engagement through modular architecture, A/B testing, and analytics.
+
+    Worked with the #1 beauty brand in the world, building and maintaining high-traffic e-commerce platforms across multiple global markets, ensuring accessibility, reliability, and UX excellence.
+
+    Co-founded a startup that won multiple national and global Ethereum hackathons, leading development of advanced dApps, SDKs, and blockchain integrations.
+
+🌱 Technical Focus Areas
+
+    Frontend: React.js, Next.js, TypeScript, Vue.js, Tailwind, component libraries building
+
+    Backend: Node.js, Python (Django), REST, GraphQL
+
+    Web3: Ethers.js, Viem, ENS, ZK Proofs, IPFS
+
+    AI: LLM integrations, prompt systems, NLP SDKs
+
+    DevOps: CI/CD, Docker, Vercel, AWS, Sentry, DataDog
+
+🌎 What Drives Me
+Scalable systems. Meaningful UX. Transparent, auditable, and ethical tech. I thrive where performance meets purpose — from startup MVPs to robust enterprise platforms.
+
+📫 Let’s connect or collaborate → https://www.linkedin.com/in/franco-from-crystal/
+🌐 More at → https://www.regenerating.world/
